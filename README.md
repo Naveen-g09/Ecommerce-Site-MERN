@@ -9,10 +9,6 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 
 <br>
 
-[Youtube Video](https://youtu.be/i_z0HYk3IuQ?si=S04-IBq7Ny8k0FYC)
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
-
 # About
 
 ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
@@ -45,7 +41,7 @@ ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-Ecommerce-Site.git
+git clone https://github.com/Naveen-g09/Ecommerce-Site-MERN.git
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -94,8 +90,4 @@ The issue arises because the `.env` file in the frontend may not work for all us
 These steps should resolve the network error in the frontend. If the issue persists, feel free to contact me for further assistance.
 
 Don't forget to leave a star for this project if you found the solution helpful. Thank you!
-
-# Deployment
-* Render - server side
-* Vercel - client side
 
